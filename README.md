@@ -73,14 +73,3 @@ Convert to Bloc when complexity increases
 Muhammad Junaid
 Flutter Developer
 Think beyond boundaries
-
-### Final push
-Your code works. Your explanation is correct, but sharpen your language when explaining Cubit vs Bloc in interviews. Say simple flow equals Cubit. Complex flow equals Bloc. No emotions, only tradeoffs.
-
-If you want next, I can:
-- Refactor this to production level
-- Convert it to Bloc to show comparison
-- Add unit tests for Cubit
-- Prepare interview ready explanation
-
-Say the word and move forward.
